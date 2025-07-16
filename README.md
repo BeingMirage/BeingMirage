@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @BeingMirage
-- 👀 I’m interested in ethical hacking and pen testing
-- 🌱 I’m currently learning basics of kali linux
-- 💞️ I’m looking to collaborate on nothing really
-- 📫 How to reach me : Gmail :knoweverythingeae@gmail.com
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning basics of Agentic AIs
+- 💞️ I’m looking to collaborate on AI/ML projects
+- 📫 How to reach me : Gmail :ameyghatol@gmail.com
 
 <!---
 BeingMirage/BeingMirage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

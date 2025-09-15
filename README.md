@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BeingMirage
+- 👋 Hi, I’m Amey!
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning basics of Agentic AIs
 - 💞️ I’m looking to collaborate on AI/ML projects
